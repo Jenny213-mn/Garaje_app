@@ -11,21 +11,16 @@ Aplicación de escritorio desarrollada en Python utilizando Tkinter para registr
 ## Estructura del proyecto
 
 garaje_app
-
-modelos/
-__init__.py
-vehiculo.py
-
-servicios/
-__init__.py
-garaje_servicio.py
-
-ui/
-__init__.py
-app_tkinter.py
-.gitignore
-main.py
-README.md
+│
+├── modelos/
+│   └── vehiculo.py
+├── servicios/
+│   └── garaje_servicio.py
+├── ui/
+│   └── app_tkinter.py
+├── .gitignore
+├── README.md
+└── main.py
 
 ## Tecnologías utilizadas
 
